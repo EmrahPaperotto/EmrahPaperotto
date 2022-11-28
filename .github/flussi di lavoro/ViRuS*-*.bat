@@ -1,6 +1,7 @@
  Copy the text (if you want to create a batch virus)attention!!
 This is just an example just to understand the batch language,
 ,THEREFORE NOT USE THIS TEXT FOR MALICIOUS PURPOSES.
+☢☣☢☣☢☣☢☣☢☣☢☣☢☣☢☣☢☣☢☣☢☣☢☣☢☣☢
 
 @echo off
 cd C:Documents and SettingsusernameDesktop
