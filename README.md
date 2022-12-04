@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @  ShutDown
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python,java and batch 
+- 👀 I’m interested in h/a/c/k/i/n/g
+- 🌱 I’m currently learning python and java  
 - 😎I'M BEST?
 <!---
 EmrahPaperotto/EmrahPaperotto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
